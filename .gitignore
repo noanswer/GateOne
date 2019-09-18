@@ -2,3 +2,6 @@
 *.kate-swp
 .DS_Store
 .directory
+Vagrantfile
+.vagrant
+.vscode
